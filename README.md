@@ -2,7 +2,7 @@
 This project is developed on python 3.5 (Please use this or higher)
 
 
-lOCAL CONFIGURATION
+LOCAL CONFIGURATION
 
 # Run Requirement file
 1. pip install -r requirement.txt
